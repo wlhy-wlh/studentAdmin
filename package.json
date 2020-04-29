@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "md5-node": "^1.0.1",
+    "mongoose": "^5.9.10"
+  },
+  "name": "student-management",
+  "description": "这是一个学生的管理系统",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wlh",
+  "license": "ISC"
+}
