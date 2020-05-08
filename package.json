@@ -9,7 +9,8 @@
     "node-xlsx": "^0.15.0"
   },
   "name": "student-management",
-  "description": "这是一个学生的管理系统",
+  "description": "这是一个node实现学生的管理系统",
+  "keywords": ["studentAdmin","学生管理系统"],
   "version": "1.0.0",
   "main": "app.js",
   "devDependencies": {},

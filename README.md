@@ -12,4 +12,5 @@
 * views V: 视图,通过ejs模板引擎渲染的页面
 * public : 存放一些资源(image,css,icon,js)
 * data : 模拟的数据(需要导入到MongoDB内 ) => 比如 mongoimport -d sm(库的名称) -c students(集合的名称) data/student.txt
+* route ： 路由处理
 
